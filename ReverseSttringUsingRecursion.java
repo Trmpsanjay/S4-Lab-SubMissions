@@ -1,5 +1,5 @@
 import java.util.*;
-class ReverseStringUsingStack1{
+class ReverseStringUsingStack{
 	public static String reverse(Stack<Character> s){
 		String ans = "";
 		while(s.size()!=0){
